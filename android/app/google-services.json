@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144073436768",
+    "project_id": "kebab-lublin-289",
+    "storage_bucket": "kebab-lublin-289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144073436768:android:283c500411f3af596edd05",
+        "android_client_info": {
+          "package_name": "com.patrykjaroszek.pizza_w_miescie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144073436768-8m1sk0k5qriituktpv6ikgiu7so2kr78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ONAyN6fKWVmvflhWzZg9xZWs671UP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144073436768-8m1sk0k5qriituktpv6ikgiu7so2kr78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

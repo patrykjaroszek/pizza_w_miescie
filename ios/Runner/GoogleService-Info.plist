@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>144073436768-omp3skea6l8jtdf6cdllncml7qd207lo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.144073436768-omp3skea6l8jtdf6cdllncml7qd207lo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD66hxPUAPAERCNMUUkOrV0ASsADhjfzi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>144073436768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.patrykjaroszek.pizzaWMiescie</string>
+	<key>PROJECT_ID</key>
+	<string>kebab-lublin-289</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kebab-lublin-289.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:144073436768:ios:c461b318db91d5cc6edd05</string>
+</dict>
+</plist>
